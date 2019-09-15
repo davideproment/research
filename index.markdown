@@ -5,4 +5,19 @@
 layout: home
 ---
 
-blbblblbl
+![](./picture.png "pictureDP")
+
+# Contact details
+
+Dr Davide Proment <br />
+Senior Lecturer in Applied Mathematics
+
+School of Mathematics <br />
+University of East Anglia
+NR4 7TJ Norwich <br />
+United Kingdom
+
+tel: +44 (0)1603 591642 <br />
+email: d.proment[at]uea.ac.uk <br />
+skype: davide.proment
+

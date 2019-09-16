@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![](_static/picture.png "pictureDP")
+![](../_static/picture.png "pictureDP")
 
 Dr Davide Proment <br />
 Senior Lecturer in Applied Mathematics
@@ -19,5 +19,5 @@ tel: +44 (0)1603 591642 <br />
 email: d.proment[at]uea.ac.uk <br />
 skype: davide.proment
 
----
+
 

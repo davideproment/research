@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DP's research
+title: Davide Proment's research
 email: d.proment@uea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Davide Proment's research webpage, as part of the Quantum Fluids group

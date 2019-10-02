@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Submitted manuscripts under consideration
+# Submitted manuscript(s) under consideration
 - [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose-Einstein condensates](https://arxiv.org/abs/1910.00096), Adam Griffin, Sergey Nazarenko, Davide Proment, arXiv:1910.00096 (2019)
 
 # Publications in peer-reviewed journals

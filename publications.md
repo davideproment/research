@@ -5,10 +5,11 @@ permalink: /publications/
 ---
 
 # Submitted manuscripts under consideration
-- [Flying in a superfluid: starting flow past an airfoil](https://arxiv.org/abs/1904.04908), Seth Musser, Davide Proment, Miguel Onorato, William T.M. Irvine, arXiv:1904.04908 (2019)
+- [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose-Einstein condensates](https://arxiv.org/abs/1910.00096), Adam Griffin, Sergey Nazarenko, Davide Proment, arXiv:1910.00096 (2019)
 
 # Publications in peer-reviewed journals
-1. [Clustering and phase transitions in a 2D superfluid with immiscible active impurities](https://doi.org/10.1088/1751-8121/ab2607), Umberto Giuriato, Giorgio Krstulovic, and Davide Proment, Journal of Physics A: Mathematical and Theoretical (2019) - [PDF](https://iopscience.iop.org/article/10.1088/1751-8121/ab2607/pdf)
+1. [Starting flow past an airfoil and its acquired lift in a superfluid](https://journals.aps.org/prl/accepted/a2075Yf2Q151086d79a44df26b37e9ae75d770eb4), Seth Musser, Davide Proment, Miguel Onorato, William T.M. Irvine, accepted in Physical Review Letters (2019) - [arXiv](https://arxiv.org/abs/1904.04908)
+0. [Clustering and phase transitions in a 2D superfluid with immiscible active impurities](https://doi.org/10.1088/1751-8121/ab2607), Umberto Giuriato, Giorgio Krstulovic, and Davide Proment, Journal of Physics A: Mathematical and Theoretical (2019) - [PDF](https://iopscience.iop.org/article/10.1088/1751-8121/ab2607/pdf)
 0. [Wind generated rogue waves in an annular wave flume](https://doi.org/10.1103/PhysRevLett.118.144503), A. Toffoli, D. Proment, H. Salman, J. Monbaliu, F. Frascoli, M. Dafilis, E. Stramignoni, R. Forza, M. Manfrin, M. Onorato, Physical Review Letters, Volume 118, Issue 14, 144503 (2017) - [PDF](../static/papers/PhysRevLett.118.144503.pdf)
 0. [Universal and nonuniversal aspects of vortex reconnections in superfluids](https://doi.org/10.1103/PhysRevFluids.2.044701), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Fluids, Volume 2, Issue 4, 044701 (2017) - [PDF]()
 0. [A Vortex Filament Tracking Method for the Gross–Pitaevskii Model of a Superfluid](https://doi.org/10.1088/1751-8113/49/41/415502), Alberto Villois, Giorgio Krstulovic, Davide Proment, Hayder Salman, Journal of Physics A: Mathematical and Theoretical, Volume 49, Issue 41, 415502 (2016)

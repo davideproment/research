@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![](./static/picture.png "pictureDP")
+![](/research/assets/picture.png "pictureDP")
 
 Dr Davide Proment <br />
 Senior Lecturer in Applied Mathematics

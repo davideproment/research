@@ -7,7 +7,7 @@ permalink: /contributions/
 For the complete list of research contributions please refer to my [CV](/research/assets/DavideProment_fullCV.pdf).
 
 # Most recent talks
-- [Irreversible dynamics of superfluid vortex reconnections](/research/assets/slides/190909_Nice.pdf), Universal features of hydrodynamical, optical and wave turbulence, Université Nice Sophia Antipolis, Nice, France (September 9, 2019)
+- [Irreversible dynamics of superfluid vortex reconnections](/research/assets/slides/190908_Nice.pdf), Universal features of hydrodynamical, optical and wave turbulence, Université Nice Sophia Antipolis, Nice, France (September 9, 2019)
 - [Flying in a superfluid](/research/assets/slides/190905_Torino.pdf), 17th European Turbulence Conference (ETC17), Turin, Italy (September 5, 2019)
 - [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/190705_Natal.pdf), Vortex dynamics, turbulence and related phenomena in quantum fluids, International Institute of Physics, Natal, Brazil (July 5, 2019) - [VIDEO OF THE TALK](https://youtu.be/mOpb4VeosXA)
 - Quantum turbulence cascades in the Gross–Pitaesvkii model, Non perturbative solutions in field theory and their applications, Università del Salento, Italy (June 10, 2019)

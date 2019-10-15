@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our manuscript has been accepted in Physical Review Letters"
+title:  "Manuscript accepted in Physical Review Letters"
 date:   2019-09-18
 categories: jekyll update
 ---

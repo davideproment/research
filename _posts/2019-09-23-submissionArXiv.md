@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our manuscript has been submitted for publication"
+title:  "Manuscript submitted for publication"
 date:   2019-09-23
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our manuscript has been pulbished online in Physical Review Letters"
+title:  "Manuscript pulbished in Physical Review Letters"
 date:   2019-10-11
 categories: jekyll update
 ---

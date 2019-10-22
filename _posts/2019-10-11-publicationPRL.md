@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manuscript pulbished in Physical Review Letters"
+title:  "Manuscript published in Physical Review Letters"
 date:   2019-10-11
 categories: jekyll update
 ---

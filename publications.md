@@ -42,19 +42,19 @@ permalink: /publications/
 
 0. [Approximate rogue wave solutions of the forced and damped nonlinear Schrödinger equation for water waves](https://doi.org/10.1016/j.physleta.2012.05.063), Miguel Onorato and Davide Proment, Physics Letters A, Volume 376, Issue 45, 3057-3059 (2012) - [PDF](/research/assets/papers/PLA.376.3057.pdf)
 
-0. [Vortex knots in a Bose–Einstein condensate](https://doi.org/10.1103/PhysRevE.85.036306), Davide Proment, Miguel Onorato, and Carlo F. Barenghi, Physical Review E, Volume 85, Issue 3, 036306 (2012)
+0. [Vortex knots in a Bose–Einstein condensate](https://doi.org/10.1103/PhysRevE.85.036306), Davide Proment, Miguel Onorato, and Carlo F. Barenghi, Physical Review E, Volume 85, Issue 3, 036306 (2012) - [PDF](/research/assets/papers/PhysRevE.85.036306.pdf)
 
-0. [Warm cascade states in a forced-dissipated Boltzmann gas of hard spheres](https://doi.org/10.1016/j.physd.2011.11.019), Davide Proment, Miguel Onorato, Pietro Asinari, and Sergey Nazarenko, Physica D: Nonlinear Phenomena, Volume 241, Issue 5, 600-615 (2012)
+0. [Warm cascade states in a forced-dissipated Boltzmann gas of hard spheres](https://doi.org/10.1016/j.physd.2011.11.019), Davide Proment, Miguel Onorato, Pietro Asinari, and Sergey Nazarenko, Physica D: Nonlinear Phenomena, Volume 241, Issue 5, 600-615 (2012) - [PDF](/research/assets/papers/PhysRevE.85.036306.pdf)
 
-0. [Sustained turbulence in the three-dimensional Gross–Pitaevskii model](https://doi.org/10.1016/j.physd.2011.06.007), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physica D: Nonlinear Phenomena, Volume 241, Issue 3, 304-314 (2012)
+0. [Sustained turbulence in the three-dimensional Gross–Pitaevskii model](https://doi.org/10.1016/j.physd.2011.06.007), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physica D: Nonlinear Phenomena, Volume 241, Issue 3, 304-314 (2012) - [PDF](/research/assets/papers/PhysD.241.304.pdf)
 
-0. [A note on an alternative derivation of the Benney equations for short wave-long wave interactions](https://doi.org/10.1016/j.euromechflu.2012.01.002), Davide Proment and Miguel Onorato, European Journal of Mechanics - B/Fluids, Volume 34, 1-6 (2012)
+0. [A note on an alternative derivation of the Benney equations for short wave-long wave interactions](https://doi.org/10.1016/j.euromechflu.2012.01.002), Davide Proment and Miguel Onorato, European Journal of Mechanics - B/Fluids, Volume 34, 1-6 (2012) - [PDF](/research/assets/papers/EJMB.34.1.pdf)
 
-0. [Triggering rogue waves in opposing currents](https://doi.org/10.1103/PhysRevLett.107.184502), Miguel Onorato, Davide Proment, and Alessandro Toffoli, Physical Review Letters, Volume 107, Issue 18, 184502 (2011)
+0. [Triggering rogue waves in opposing currents](https://doi.org/10.1103/PhysRevLett.107.184502), Miguel Onorato, Davide Proment, and Alessandro Toffoli, Physical Review Letters, Volume 107, Issue 18, 184502 (2011) - [PDF](/research/assets/papers/PhysRevLett.107.184502.pdf)
 
-0. [Warm turbulence in the Boltzmann equation](https://doi.org/10.1209/0295-5075/96/24004), Davide Proment, Sergey Nazarenko, Pietro Asinari, and Miguel Onorato, Europhysics Letters, Volume 96, Number 2, 24004 (2011)
+0. [Warm turbulence in the Boltzmann equation](https://doi.org/10.1209/0295-5075/96/24004), Davide Proment, Sergey Nazarenko, Pietro Asinari, and Miguel Onorato, Europhysics Letters, Volume 96, Number 2, 24004 (2011) - [PDF](/research/assets/papers/EPL.96.24004.pdf)
 
-0. [Freak waves in crossing seas](https://doi.org/10.1140/epjst/e2010-01237-8), Miguel Onorato, Davide Proment, and Alessandro Toffoli, The European Physical Journal - Special Topics, Volume 185, (2010)
+0. [Freak waves in crossing seas](https://doi.org/10.1140/epjst/e2010-01237-8), Miguel Onorato, Davide Proment, and Alessandro Toffoli, The European Physical Journal - Special Topics, Volume 185, (2010) - [PDF](/research/assets/papers/EPJST.185.45.pdf)
 
-0. [Quantum turbulence cascades in the Gross–Pitaevskii model](https://doi.org/10.1103/PhysRevA.80.051603), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009)
+0. [Quantum turbulence cascades in the Gross–Pitaevskii model](https://doi.org/10.1103/PhysRevA.80.051603), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009) - [PDF](/research/assets/papers/PhysRevA.80.051603.pdf)
 {: reversed="reversed"}

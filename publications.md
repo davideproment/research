@@ -23,21 +23,38 @@ permalink: /publications/
 0. [Evolution of a superfluid vortex filament tangle driven by the Gross–Pitaevskii equation](https://doi.org/10.1103/PhysRevE.93.061103), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review E, Volume 93, Issue 6, 061103(R) (2016) - [PDF](/research/assets/papers/PhysRevE.93.061103.pdf)
 
 0. [Scattering of Line-Ring Vortices in a Superfluid](https://doi.org/10.1007/s10909-015-1293-y), Alberto Villois, Hayder Salman, Davide Proment, Journal of Low Temperature Physics, Volume 180, Issue 1, pages 68-81 (2015) - [PDF](/research/assets/papers/JLTP.180.68.pdf)
+
 0. [Route to thermalization in the alpha-Fermi–Pasta–Ulam system](https://doi.org/10.1073/pnas.1404397112), Miguel Onorato, Lara Vozella, Davide Proment, and Yuri V. Lvov, Proceedings of the National Academy of Sciences, Volume 112, Issue 14, pages 4208-4213 (2015) - [PDF](/research/assets/papers/PNAS.112.4208.full.pdf)
+
 0. [Helicity conservation by flow across scales in reconnecting vortex links and knots](https://doi.org/10.1073/pnas.1407232111), Martin W. Scheeler, Dustin Kleckner, Davide Proment, Gordon L. Kindlmann, William T.M. Irvine, Proceedings of the National Academy of Sciences, Volume 111, Issue 43, pages 15350-15355 (2014) - [PDF](/research/assets/papers/PNAS.111.15350.full.pdf)
-0. [Bose-Einstein condensation and Berezinskii–Kosterlitz–Thouless transition in 2D Nonlinear Schrödinger model](https://doi.org/10.1103/PhysRevA.90.013624), Sergey Nazarenko, Miguel Onorato, and Davide Proment, Physical Review A, Volume 90, Issue 1, 013624 (2014)
+
+0. [Bose-Einstein condensation and Berezinskii–Kosterlitz–Thouless transition in 2D Nonlinear Schrödinger model](https://doi.org/10.1103/PhysRevA.90.013624), Sergey Nazarenko, Miguel Onorato, and Davide Proment, Physical Review A, Volume 90, Issue 1, 013624 (2014) - [PDF](/research/assets/papers/PhysRevA.90.013624.pdf)
+
 0. [Torus quantum vortex knots in the Gross–Pitaevskii model for Bose–Einstein condensates](https://doi.org/10.1088/1742-6596/544/1/012022), Davide Proment, Miguel Onorato, and Carlo F. Barenghi, Journal of Physics: Conference Series, Volume 544, Issue 1, 012022 (2014) - [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/544/1/012022/pdf)
-0. [Experimental evidence of the modulation of a plane wave to oblique perturbations and generation of rogue waves in finite water depth](https://doi.org/10.1063/1.4821810), A. Toffoli, L. Fernandez, J. Monbaliu, M. Benoit, E. Gagnaire-Renou, J. M. Lefevre, L. Cavaleri, D. Proment, C. Pakozdi, C. T. Stansberg, T. Waseda, and M. Onorato, Physics of Fluids - Letters, Volume 25, Issue 9, 091701 (2013)
-0. [Excitation of rogue waves in a variable medium: An experimental study on the interaction of water waves and currents](https://doi.org/10.1103/PhysRevE.87.051201), A. Toffoli, T. Waseda, H. Houtani, T. Kinoshita, K. Collins, D. Proment, and M. Onorato, Physical Review E, Volume 87, Issue 5, 051201 (2013)
-0. [Experimental observation of Dark Solitons on the Surface of Water](https://doi.org/10.1103/PhysRevLett.110.124101), Amin Chabchoub, Olivier Kimmoun, Hubert Branger, Norbert Hoffmann, Davide Proment, Miguel Onorato, and Nail Akhmediev, Physical Review Letters, Volume 110, Issue 12, 124101 (2013)
-0. [Rogue Waves: From Nonlinear Schrödinger Breather Solutions to Sea-Keeping Test](https://doi.org/10.1371/journal.pone.0054629), Miguel Onorato, Davide Proment, Günther Clauss, and Marco Klein, PLoS ONE, Volume 8, Issue 2, e54629 (2013)
-0. [Approximate rogue wave solutions of the forced and damped nonlinear Schrödinger equation for water waves](https://doi.org/10.1016/j.physleta.2012.05.063), Miguel Onorato and Davide Proment, Physics Letters A, Volume 376, Issue 45, 3057-3059 (2012)
+
+0. [Experimental evidence of the modulation of a plane wave to oblique perturbations and generation of rogue waves in finite water depth](https://doi.org/10.1063/1.4821810), A. Toffoli, L. Fernandez, J. Monbaliu, M. Benoit, E. Gagnaire-Renou, J. M. Lefevre, L. Cavaleri, D. Proment, C. Pakozdi, C. T. Stansberg, T. Waseda, and M. Onorato, Physics of Fluids - Letters, Volume 25, Issue 9, 091701 (2013) - [PDF](/research/assets/papers/PoF.25.091701.pdf)
+
+0. [Excitation of rogue waves in a variable medium: An experimental study on the interaction of water waves and currents](https://doi.org/10.1103/PhysRevE.87.051201), A. Toffoli, T. Waseda, H. Houtani, T. Kinoshita, K. Collins, D. Proment, and M. Onorato, Physical Review E, Volume 87, Issue 5, 051201 (2013) - [PDF](/research/assets/papers/PhysRevE.87.051201.pdf)
+
+0. [Experimental observation of Dark Solitons on the Surface of Water](https://doi.org/10.1103/PhysRevLett.110.124101), Amin Chabchoub, Olivier Kimmoun, Hubert Branger, Norbert Hoffmann, Davide Proment, Miguel Onorato, and Nail Akhmediev, Physical Review Letters, Volume 110, Issue 12, 124101 (2013) - [PDF](/research/assets/papers/PhysRevLett.110.124101.pdf)
+
+0. [Rogue Waves: From Nonlinear Schrödinger Breather Solutions to Sea-Keeping Test](https://doi.org/10.1371/journal.pone.0054629), Miguel Onorato, Davide Proment, Günther Clauss, and Marco Klein, PLoS ONE, Volume 8, Issue 2, e54629 (2013) - [PDF](/research/assets/papers/PONE.8.e54629.pdf)
+
+0. [Approximate rogue wave solutions of the forced and damped nonlinear Schrödinger equation for water waves](https://doi.org/10.1016/j.physleta.2012.05.063), Miguel Onorato and Davide Proment, Physics Letters A, Volume 376, Issue 45, 3057-3059 (2012) - [PDF](/research/assets/papers/PLA.376.3057.pdf)
+
 0. [Vortex knots in a Bose–Einstein condensate](https://doi.org/10.1103/PhysRevE.85.036306), Davide Proment, Miguel Onorato, and Carlo F. Barenghi, Physical Review E, Volume 85, Issue 3, 036306 (2012)
+
 0. [Warm cascade states in a forced-dissipated Boltzmann gas of hard spheres](https://doi.org/10.1016/j.physd.2011.11.019), Davide Proment, Miguel Onorato, Pietro Asinari, and Sergey Nazarenko, Physica D: Nonlinear Phenomena, Volume 241, Issue 5, 600-615 (2012)
+
 0. [Sustained turbulence in the three-dimensional Gross–Pitaevskii model](https://doi.org/10.1016/j.physd.2011.06.007), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physica D: Nonlinear Phenomena, Volume 241, Issue 3, 304-314 (2012)
+
 0. [A note on an alternative derivation of the Benney equations for short wave-long wave interactions](https://doi.org/10.1016/j.euromechflu.2012.01.002), Davide Proment and Miguel Onorato, European Journal of Mechanics - B/Fluids, Volume 34, 1-6 (2012)
+
 0. [Triggering rogue waves in opposing currents](https://doi.org/10.1103/PhysRevLett.107.184502), Miguel Onorato, Davide Proment, and Alessandro Toffoli, Physical Review Letters, Volume 107, Issue 18, 184502 (2011)
+
 0. [Warm turbulence in the Boltzmann equation](https://doi.org/10.1209/0295-5075/96/24004), Davide Proment, Sergey Nazarenko, Pietro Asinari, and Miguel Onorato, Europhysics Letters, Volume 96, Number 2, 24004 (2011)
+
 0. [Freak waves in crossing seas](https://doi.org/10.1140/epjst/e2010-01237-8), Miguel Onorato, Davide Proment, and Alessandro Toffoli, The European Physical Journal - Special Topics, Volume 185, (2010)
+
 0. [Quantum turbulence cascades in the Gross–Pitaevskii model](https://doi.org/10.1103/PhysRevA.80.051603), Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009)
 {: reversed="reversed"}

@@ -8,7 +8,7 @@ permalink: /publications/
 [//]: # (Comment) - [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose-Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, Davide Proment, arXiv:1910.00096 (2019)
 
 # Publications in peer-reviewed journals
-1. [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose–Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, and Davide Proment, Journal of Physics A: Mathematical and Theoretical, Volume 53, Issue 17, 175701 (2019) - [PDF](/research/assets/papers/JPA.53.175701.pdf)
+1. [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose–Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, and Davide Proment, Journal of Physics A: Mathematical and Theoretical, Volume 53, Issue 17, 175701 (2020) - [PDF](/research/assets/papers/JPA.53.175701.pdf)
 
 0. [Starting flow past an airfoil and its acquired lift in a superfluid](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.154502), Seth Musser, Davide Proment, Miguel Onorato, and William T.M. Irvine, Physical Review Letters, Volume 123, Issue 15, 154502 (2019) - [PDF](/research/assets/papers/PhysRevLett.123.154502.pdf)
 

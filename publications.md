@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-[//]: # (Comment) # Submitted manuscript(s) under consideration
-[//]: # (Comment) - [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose-Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, Davide Proment, arXiv:1910.00096 (2019)
+# Submitted manuscript(s) under consideration
+- [Irreversible dynamics of vortex reconnections in quantum fluids](https://arxiv.org/abs/2005.02048), Alberto Villois, Davide Proment, Giorgio Krstulovic, arXiv:2005.02048 (2020)
+
+- [A matching theory to characterize sound emission during vortex reconnection in quantum fluids](https://arxiv.org/abs/2005.02047), Davide Proment, Giorgio Krstulovic, arXiv:2005.02047 (2020)
 
 # Publications in peer-reviewed journals
 1. [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose–Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, and Davide Proment, Journal of Physics A: Mathematical and Theoretical, Volume 53, Issue 17, 175701 (2020) - [PDF](/research/assets/papers/JPA.53.175701.pdf)

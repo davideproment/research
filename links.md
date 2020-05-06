@@ -7,7 +7,7 @@ permalink: /links/
 # Collaborators (in alphabretical order) 
 - [Carlo Barenghi](http://www.mas.ncl.ac.uk/~ncfb/), Newcastle University, United Kingdom
 
-- [Giorgio Krstulovic](https://www-n.oca.eu/krstulovic/Webpage_of_Giorgio_Krstulovic/Personal.html), Observatoire de la Cote d’Azur, France
+- [Giorgio Krstulovic](https://gkrstulovic.gitlab.io), Observatoire de la Cote d’Azur, France
 
 - [William Irvine](http://jfi.uchicago.edu/~william/), The University of Chicago, United States of America
 

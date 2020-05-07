@@ -9,7 +9,7 @@ For the complete list of research contributions please refer to my [CV](/researc
 # Most recent talks
 - [Sound emission and irreversible dynamics during vortex reconnections in quantum fluids](/research/assets/slides/200506_ICMS.pdf), webinar at the [ICMS Waves in One World series](https://sites.google.com/view/waves-ow/) (May 06, 2020)
 
-- [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/200212_Windsor.pdf), 5th Eastern Arc Conference on Topological Solitons and Quantum Fluids, University of Kent, Canterbury, UK (December 3, 2019)
+- [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/200212_Windsor.pdf), Quantum Fluids Special Interest Group meeting held at Cumberland Lodge, Windsor, UK (February 12, 2020)
 
 - [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/191203_Kent.pdf), 5th Eastern Arc Conference on Topological Solitons and Quantum Fluids, University of Kent, Canterbury, UK (December 3, 2019)
 

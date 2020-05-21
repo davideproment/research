@@ -7,6 +7,8 @@ permalink: /contributions/
 For the complete list of research contributions please refer to my [CV](/research/assets/DavideProment_fullCV.pdf).
 
 # Most recent talks
+- [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/200520_Liverpool.pdf), webinar at the Aerospace Engineering Research Programme](http://pcwww.liv.ac.uk/~cadot/Aerospace_engineering_research_programme.pdf), University of Liverpool, UK (May 20, 2020)
+
 - [Sound emission and irreversible dynamics during vortex reconnections in quantum fluids](/research/assets/slides/200506_ICMS.pdf), webinar at the [ICMS Waves in One World series](https://sites.google.com/view/waves-ow/) (May 06, 2020)
 
 - [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/200212_Windsor.pdf), Quantum Fluids Special Interest Group meeting held at Cumberland Lodge, Windsor, UK (February 12, 2020)

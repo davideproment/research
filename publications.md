@@ -10,7 +10,7 @@ permalink: /publications/
 - [A matching theory to characterize sound emission during vortex reconnection in quantum fluids](https://arxiv.org/abs/2005.02047), Davide Proment, Giorgio Krstulovic, arXiv:2005.02047 (2020)
 
 # Publications in peer-reviewed journals
-1. [Coexistence of ballistic and Fourier regimes in the β Fermi-Pasta-Ulam-Tsingou lattice](https://journals.aps.org/prl/accepted/03077Yb0Za21586c397893942ab886788f05a1ff9), Giovanni Dematteis, Lamberto Rondoni, Davide Proment, Francesco De Vita, and Miguel Onorato, Physical Review Letters, in press (2020) - [PDF](https://arxiv.org/abs/1912.08622)
+1. [Coexistence of Ballistic and Fourier Regimes in the β Fermi-Pasta-Ulam-Tsingou Lattice](https://doi.org/10.1103/PhysRevLett.125.024101), Giovanni Dematteis, Lamberto Rondoni, Davide Proment, Francesco De Vita, and Miguel Onorato, Physical Review Letters, Volume 125, Issue 2, 024101 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.024101.pdf)
 
 0. [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose–Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, and Davide Proment, Journal of Physics A: Mathematical and Theoretical, Volume 53, Issue 17, 175701 (2020) - [PDF](/research/assets/papers/JPA.53.175701.pdf)
 

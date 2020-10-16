@@ -4,13 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-# Submitted manuscript(s) under consideration
-- [Irreversible dynamics of vortex reconnections in quantum fluids](https://arxiv.org/abs/2005.02048), Alberto Villois, Davide Proment, Giorgio Krstulovic, arXiv:2005.02048 (2020)
+/# Submitted manuscript(s) under consideration
 
-- [A matching theory to characterize sound emission during vortex reconnection in quantum fluids](https://arxiv.org/abs/2005.02047), Davide Proment, Giorgio Krstulovic, arXiv:2005.02047 (2020)
 
 # Publications in peer-reviewed journals
-1. [Coexistence of Ballistic and Fourier Regimes in the β Fermi-Pasta-Ulam-Tsingou Lattice](https://doi.org/10.1103/PhysRevLett.125.024101), Giovanni Dematteis, Lamberto Rondoni, Davide Proment, Francesco De Vita, and Miguel Onorato, Physical Review Letters, Volume 125, Issue 2, 024101 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.024101.pdf)
+1. [Irreversible Dynamics of Vortex Reconnections in Quantum Fluids](https://doi.org/10.1103/PhysRevLett.125.164501), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Letters, Volume 125, Issue 16, 164501 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.164501.pdf)
+
+0. [Matching theory to characterize sound emission during vortex reconnection in quantum fluids](https://doi.org/10.1103/PhysRevFluids.5.104701), Davide Proment and Giorgio Krstulovic, Physical Review Fluids, Volume 5, Issue 10, 104701 (2020) - [PDF](/research/assets/papers/PhysRevFluids.5.104701.pdf)
+
+0. [Coexistence of Ballistic and Fourier Regimes in the β Fermi-Pasta-Ulam-Tsingou Lattice](https://doi.org/10.1103/PhysRevLett.125.024101), Giovanni Dematteis, Lamberto Rondoni, Davide Proment, Francesco De Vita, and Miguel Onorato, Physical Review Letters, Volume 125, Issue 2, 024101 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.024101.pdf)
 
 0. [Breaking of Josephson junction oscillations and onset of quantum turbulence in Bose–Einstein condensates](https://doi.org/10.1088/1751-8121/ab7ad0), Adam Griffin, Sergey Nazarenko, and Davide Proment, Journal of Physics A: Mathematical and Theoretical, Volume 53, Issue 17, 175701 (2020) - [PDF](/research/assets/papers/JPA.53.175701.pdf)
 

@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<> (# Submitted manuscript(s) under consideration)
+<!-- # Submitted manuscript(s) under consideration) -->
 
 
 # Publications in peer-reviewed journals

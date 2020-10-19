@@ -9,6 +9,6 @@ Our manuscript [Matching theory to characterize sound emission during vortex rec
 
 Watch our advertising video on this work by clicking on the image below!
 
-[![IMAGE ALT TEXT HERE](/research/assets/posts/2020-10-16_video.jpg)](https://youtu.be/OhKUOV5irGI)
+[![Quantum vortex reconnections. Irreversibility and sound emission.](/research/assets/posts/2020-10-16_video.jpg)](https://youtu.be/OhKUOV5irGI)
 
 

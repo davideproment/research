@@ -20,7 +20,7 @@ email: d.proment[at]uea.ac.uk <br />
 skype: davide.proment
 
 
-# PhD opportunities:
+## PhD opportunities
 - [Nonlinear waves on graphs (self-funded PhD project)](https://www.uea.ac.uk/course/phd-doctorate/phd-nonlinear-waves-on-graphs-promentd-u21sf)
 
 

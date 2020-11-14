@@ -24,7 +24,7 @@ permalink: /links/
 - [Alessandro Toffoli](https://findanexpert.unimelb.edu.au/display/person771507), The University of Melbourne, Australia
 
 # Other activities
-- [Wave Turbulence Special Interest Group](https://www.jasonlaurie.com/sig/) funded by the [UK Fluids Network](https://fluids.ac.uk)
+- [Wave Turbulence Special Interest Group](https://www.jasonlaurie.com/sigwt.html) funded by the [UK Fluids Network](https://fluids.ac.uk)
 
 - [Waves, Coherent Structures, and Turbulence (WCST2019)](https://davideproment.github.io/WCST2019/) workshop held at the University of East Anglia, Norwich, United Kingdom
 

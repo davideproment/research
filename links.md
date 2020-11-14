@@ -15,7 +15,9 @@ permalink: /links/
 
 - [Miguel Onorato](http://personalpages.to.infn.it/~onorato/), Università degli Studi di Torino, Italy
 
-- [Hayder Salman](http://www.uea.ac.uk/~aqd09yhu/), University of East Anglia, United Kingdom
+- [Hayder Salman](https://people.uea.ac.uk/h_salman), University of East Anglia, United Kingdom
+
+- [Saber Sami](https://people.uea.ac.uk/s_sami), University of East Anglia, United Kingdom
 
 - [Hiromitsu Takeuchi](http://hiromitsu-takeuchi.appspot.com/), Osaka City University, Japan
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Competition-funded PhD project on Vortex-impurity interactions is quantum fluids"
+title:  "Competition-funded PhD project on Vortex-impurity interactions in quantum fluids"
 date:   2020-11-18
 categories: PhD
 ---

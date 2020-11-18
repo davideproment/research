@@ -5,7 +5,7 @@ date:   2020-11-18
 categories: PhD
 ---
 
-You will soon be able to apply to a competition-funded PhD project on "Vortex-impurity interactions is quantum fluids" supervised by myself.
+You will soon be able to apply to a competition-funded PhD project on "Vortex-impurity interactions in quantum fluids" supervised by myself.
 If you want to hear more please contact [me](mailto:d.proment@uea.ac.uk).
 
 # Project overview

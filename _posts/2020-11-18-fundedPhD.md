@@ -6,7 +6,7 @@ categories: PhD
 ---
 
 You will soon be able to apply to a competition-funded PhD project on "Vortex-impurity interactions is quantum fluids" supervised by myself.
-If you want to hear more please contact [me](d.proment@uea.ac.uk).
+If you want to hear more please contact [me](mailto:d.proment@uea.ac.uk).
 
 # Project overview
 

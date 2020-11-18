@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "self-funded PhD project on Nonlinear waves on graphs"
+title:  "Self-funded PhD project on "Nonlinear waves on graphs""
 date:   2020-11-18
 categories: PhD
 ---
 
 You can now apply to a self-funded PhD project on "Nonlinear waves on graphs" supervised by myself.
 Application deadline is on 31st of May 2021.
-For more information and how to apply click [here](https://www.uea.ac.uk/course/phd-doctorate/phd-nonlinear-waves-on-graphs-promentd-u21sf), or contact [me](d.proment@uea.ac.uk).
+For more information and how to apply click [here](https://www.uea.ac.uk/course/phd-doctorate/phd-nonlinear-waves-on-graphs-promentd-u21sf), or contact [me](mailto:d.proment@uea.ac.uk).
 
 # Project overview
 

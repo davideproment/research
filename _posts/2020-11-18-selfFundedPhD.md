@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-funded PhD project on "Nonlinear waves on graphs""
+title:  "Self-funded PhD project on Nonlinear waves on graphs"
 date:   2020-11-18
 categories: PhD
 ---

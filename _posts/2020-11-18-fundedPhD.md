@@ -6,7 +6,8 @@ categories: PhD
 ---
 
 You will soon be able to apply to a competition-funded PhD project on "Vortex-impurity interactions in quantum fluids" supervised by myself.
-If you want to hear more please contact [me](mailto:d.proment@uea.ac.uk).
+Application deadline is on 15th of January 2021.
+For more information and how to apply click [here](https://www.findaphd.com/phds/project/vortex-impurity-interactions-is-quantum-fluids-promentd-u21sciom/?p127512), or contact [me](mailto:d.proment@uea.ac.uk).
 
 # Project overview
 

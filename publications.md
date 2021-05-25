@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 <!-- # Submitted manuscript(s) under consideration) -->
+# Submitted manuscript(s) under consideration
+- [Negative temperature states as exact equilibrium solutions of the Wave Kinetic equation for one dimensional lattices](https://arxiv.org/abs/2012.10618), M. Onorato, G. Dematteis, D. Proment, A. Pezzi, M. Ballarin, L. Rondoni, arXiv:2012.10618 (2020)
 
 
 # Publications in peer-reviewed journals

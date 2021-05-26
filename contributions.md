@@ -7,7 +7,7 @@ permalink: /contributions/
 For the complete list of research contributions please refer to my [CV](/research/assets/DavideProment_fullCV.pdf).
 
 # Most recent talks
-- [Flying in a superfluid](/research/assets/slides/210525_Bath.pdf), webinar at the Applied and Interdisciplinary seminar series, University of Bath, UK (May 25, 2021) - [VIDEO OF THE TALK](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2dfb59a7-91d6-4112-b164-ad3300e30393)
+- [Flying in a superfluid](/research/assets/slides/210525_Bath.pdf), webinar at the Applied and Interdisciplinary seminar series, University of Bath, UK (May 25, 2021) - [VIDEO OF THE TALK, only available to University of Bath's users](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2dfb59a7-91d6-4112-b164-ad3300e30393)
 
 - [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/210319_Lille.pdf), webinar at the Nonlinear Waves series, Lille, France (March 19, 2021)
 

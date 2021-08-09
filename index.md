@@ -8,7 +8,7 @@ layout: home
 ![](/research/assets/picture.png "pictureDP")
 
 Dr Davide Proment <br />
-Senior Lecturer in Applied Mathematics
+Associate Professor in Applied Mathematics
 
 School of Mathematics <br />
 University of East Anglia

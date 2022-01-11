@@ -5,12 +5,14 @@ permalink: /publications/
 ---
 
 <!-- # Submitted manuscript(s) under consideration) -->
-# Submitted manuscript(s) under consideration
-- [Negative temperature states as exact equilibrium solutions of the Wave Kinetic equation for one dimensional lattices](https://arxiv.org/abs/2012.10618), M. Onorato, G. Dematteis, D. Proment, A. Pezzi, M. Ballarin, L. Rondoni, arXiv:2012.10618 (2020)
+<!-- # Submitted manuscript(s) under consideration -->
+
 
 
 # Publications in peer-reviewed journals
-1. [Irreversible Dynamics of Vortex Reconnections in Quantum Fluids](https://doi.org/10.1103/PhysRevLett.125.164501), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Letters, Volume 125, Issue 16, 164501 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.164501.pdf)
+1. [Equilibrium and nonequilibrium description of negative temperature states in a one-dimensional lattice using a wave kinetic approach](https://doi.org/10.1103/PhysRevE.105.014206), M. Onorato, G. Dematteis, D. Proment, A. Pezzi, M. Ballarin, and L. Rondoni, Physical Review E, Volume 105, Issue 1, 014206 (2022) - [PDF](/research/assets/papers/PhysRevE.105.014206.pdf)
+
+0. [Irreversible Dynamics of Vortex Reconnections in Quantum Fluids](https://doi.org/10.1103/PhysRevLett.125.164501), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Letters, Volume 125, Issue 16, 164501 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.164501.pdf)
 
 0. [Matching theory to characterize sound emission during vortex reconnection in quantum fluids](https://doi.org/10.1103/PhysRevFluids.5.104701), Davide Proment and Giorgio Krstulovic, Physical Review Fluids, Volume 5, Issue 10, 104701 (2020) - [PDF](/research/assets/papers/PhysRevFluids.5.104701.pdf)
 

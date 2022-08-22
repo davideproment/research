@@ -23,10 +23,10 @@ skype: davide.proment
 
 *****
 
-<!--## PhD opportunities
-- [Vortex-impurity interactions in quantum fluids (competition-funded PhD project, deadline 15th January 2021)](https://davideproment.github.io/research/phd/2020/11/18/fundedPhD.html)
-- [Nonlinear waves on graphs (self-funded PhD project, deadline 31st May 2021)](https://davideproment.github.io/research/phd/2020/11/18/selfFundedPhD.html)
+## PhD opportunities
+<!-- - [Vortex-impurity interactions in quantum fluids (competition-funded PhD project, deadline 15th January 2021)](https://davideproment.github.io/research/phd/2020/11/18/fundedPhD.html) ) -->
+- [Nonlinear waves on graphs (self-funded PhD project, deadline 28th April 2023)](https://www.uea.ac.uk/course/phd-doctorate/nonlinear-waves-on-graphs-promentd-u23sf/2023)
 
-*****) -->
+*****
 
 

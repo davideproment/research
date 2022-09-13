@@ -10,7 +10,9 @@ permalink: /publications/
 
 
 # Publications in peer-reviewed journals
-1. [Equilibrium and nonequilibrium description of negative temperature states in a one-dimensional lattice using a wave kinetic approach](https://doi.org/10.1103/PhysRevE.105.014206), M. Onorato, G. Dematteis, D. Proment, A. Pezzi, M. Ballarin, and L. Rondoni, Physical Review E, Volume 105, Issue 1, 014206 (2022) - [PDF](/research/assets/papers/PhysRevE.105.014206.pdf)
+1. [Anomalous conduction in one-dimensional particle lattices: Wave-turbulence approach](https://doi.org/10.1103/PhysRevE.106.034110), F. De Vita, G. Dematteis, R. Mazzilli, D. Proment, Y. V. Lvov, and M. Onorato, Physical Review E, Volume 106, Issue 3, 034110 (2022) - [PDF](/research/assets/papers/PhysRevE.106.034110.pdf)
+
+0. [Equilibrium and nonequilibrium description of negative temperature states in a one-dimensional lattice using a wave kinetic approach](https://doi.org/10.1103/PhysRevE.105.014206), M. Onorato, G. Dematteis, D. Proment, A. Pezzi, M. Ballarin, and L. Rondoni, Physical Review E, Volume 105, Issue 1, 014206 (2022) - [PDF](/research/assets/papers/PhysRevE.105.014206.pdf)
 
 0. [Irreversible Dynamics of Vortex Reconnections in Quantum Fluids](https://doi.org/10.1103/PhysRevLett.125.164501), Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Letters, Volume 125, Issue 16, 164501 (2020) - [PDF](/research/assets/papers/PhysRevLett.125.164501.pdf)
 

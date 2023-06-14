@@ -6,7 +6,7 @@ permalink: /contributions/
 
 For the complete list of research contributions please refer to my [CV](/research/assets/DavideProment_fullCV.pdf).
 
-# Most recent talks
+# Most recent talks (last update May 2021)
 - [Flying in a superfluid](/research/assets/slides/210525_Bath.pdf), webinar at the Applied and Interdisciplinary seminar series, University of Bath, UK (May 25, 2021) - [VIDEO OF THE TALK, only available to University of Bath's users](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2dfb59a7-91d6-4112-b164-ad3300e30393)
 
 - [Flying in a superfluid: starting flow past an airfoil](/research/assets/slides/210319_Lille.pdf), webinar at the Nonlinear Waves series, Lille, France (March 19, 2021)
@@ -44,12 +44,12 @@ For the complete list of research contributions please refer to my [CV](/researc
 - Filament dynamics and sound emission during vortex reconnections in superfluids, Chasing tornadoes: vorticity above, below and in the Lab, Newcastle University, UK (April 10, 2018)
 
 
-# Most recent posters
+# Most recent posters (last update July 2018)
 - Vortex reconnections in superfluids: universal properties and sound emission, Quantum Fluids and Solids 2018 (QFS2018), Tokyo, Japan (July 30, 2018)
 
 - Universal and nonuniversal aspects of vortex reconnections in superfluids, ULT 2017: Frontiers of Low Temperature Physics, Heidelberg University, Germany (Aug. 17, 2017)
 
-# Most recent lectures
+# Most recent lectures (last update June 2019)
 - Vortex dynamics and sound in the Gross–Pitaevskii model, IIP scientific programme Vortex dynamics, turbulence and related phenomena in quantum fluids, International Institute of Physics, Natal, Brazil (June 24, 2019)
 
 - Turbulence in the Nonlinear Schroedinger Model (5 lectures), CISM summer school on Wave Turbulence and Extreme Events, CISM, Udine, Italy (June 18, 2018)

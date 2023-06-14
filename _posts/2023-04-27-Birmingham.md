@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Colloquium given at the Heidelberg Center for Quantum Dynamics (Heidelberg, Germany)"
+title:  "Talk given at the University of Birmingham (UK)"
 date:   2023-04-27
 categories: event
 ---

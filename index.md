@@ -24,7 +24,7 @@ email: d.proment[at]uea.ac.uk <br />
 
 ***PhD opportunities***
 
-- [Holographic Quantum Fluids (competition-funded PhD project, deadline 27th November 2023)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD.html) ) 
+- [Holographic Quantum Fluids (competition-funded PhD project, deadline 27th November 2023)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD.html)
 - [Mathematical modelling of pancake ice cycles in presence of extreme wave events, winds, and currents (competition-funded ARIES PhD project, deadline 10th January 2024)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD-ARIES.html)
 
 *****

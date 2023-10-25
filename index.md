@@ -17,16 +17,15 @@ United Kingdom
 
 tel: +44 (0)1603 591642 <br />
 email: d.proment[at]uea.ac.uk <br />
-skype: davide.proment
 
-(last update 14th June 2023)
+(last update 25th October 2023)
 
-<!--*****
+*****
 
  ## PhD opportunities
-- [Vortex-impurity interactions in quantum fluids (competition-funded PhD project, deadline 15th January 2021)](https://davideproment.github.io/research/phd/2020/11/18/fundedPhD.html) ) 
-- [Nonlinear waves on graphs (self-funded PhD project, deadline 28th April 2023)](https://www.uea.ac.uk/course/phd-doctorate/nonlinear-waves-on-graphs-promentd-u23sf/2023)
+- [Holographic Quantum Fluids (competition-funded PhD project, deadline 27th November 2023)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD.html) ) 
+- [Mathematical modelling of pancake ice cycles in presence of extreme wave events, winds, and currents (competition-funded ARIES PhD project, deadline 10th January 2024)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD-ARIES.html)
 
-*****-->
+*****
 
 

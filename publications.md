@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 
 <!-- # Submitted manuscript(s) under consideration) -->
-<!-- # Submitted manuscript(s) under consideration -->
+
+# Submitted manuscript(s) under consideration
+1. [Vortex to Rotons Transition in Dipolar Bose-Einstein Condensates](https://doi.org/10.48550/arXiv.2407.18412), Alberto Villois, Miguel Onorato, Davide Proment, arXiv:2407.18412
 
 
 

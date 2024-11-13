@@ -10,7 +10,7 @@ layout: home
 Dr Davide Proment <br />
 Associate Professor in Applied Mathematics
 
-School of Mathematics <br />
+School of Engineering, Mathematics and Physics <br />
 University of East Anglia
 NR4 7TJ Norwich <br />
 United Kingdom
@@ -18,8 +18,9 @@ United Kingdom
 tel: +44 (0)1603 591642 <br />
 email: d.proment[at]uea.ac.uk <br />
 
-(last update 25th October 2023)
+(last update 13th November 2024)
 
+<!--
 *****
 
 ***PhD opportunities***
@@ -28,5 +29,6 @@ email: d.proment[at]uea.ac.uk <br />
 - [Mathematical modelling of pancake ice cycles in presence of extreme wave events, winds, and currents (competition-funded ARIES PhD project, deadline 10th January 2024)](https://davideproment.github.io/research/phd/2023/10/25/fundedPhD-ARIES.html)
 
 *****
+-->
 
 

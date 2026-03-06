@@ -9,6 +9,8 @@ permalink: /publications/
 # Submitted manuscript(s) under consideration
 1. [The effect of discrete-time evolution on thermalisation in a lattice](https://doi.org/10.48550/arXiv.2511.08355), Thomas Moorcroft, Alberto Amo, François Copie, Stéphane Randoux, Pierre Suret, Davide Proment, arXiv:2511.08355
 
+0. [Interactions and Reconnections of Four-Dimensional Quantum Vortices](https://doi.org/10.48550/arXiv.2411.07943), H. A. J. Middleton-Spencer, B. McCanna, D. Proment, H. M. Price, arXiv:2411.07943
+
 
 
 # Publications in peer-reviewed journals

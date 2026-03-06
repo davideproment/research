@@ -7,12 +7,16 @@ permalink: /publications/
 <!-- # Submitted manuscript(s) under consideration) -->
 
 # Submitted manuscript(s) under consideration
-1. [Vortex to Rotons Transition in Dipolar Bose-Einstein Condensates](https://doi.org/10.48550/arXiv.2407.18412), Alberto Villois, Miguel Onorato, Davide Proment, arXiv:2407.18412
+1. [The effect of discrete-time evolution on thermalisation in a lattice](https://doi.org/10.48550/arXiv.2511.08355), Thomas Moorcroft, Alberto Amo, François Copie, Stéphane Randoux, Pierre Suret, Davide Proment, arXiv:2511.08355
 
 
 
 # Publications in peer-reviewed journals
-1. [Stokes drift and impurity transport in a quantum fluid](https://doi.org/10.1103/PhysRevA.107.L061303), Umberto Giuriato, Giorgio Krstulovic, Miguel Onorato, and Davide Proment, Physical Review A, Volume 107, Issue 6, L061303 (2023) - [PDF](/research/assets/papers/PhysRevA.107.L061303.pdf)
+1. [Wave attenuation in drifting sea ice: a mechanistic model for observed decay profiles](https://doi.org/10.1017/jfm.2026.11262), Rhys Ransome, Davide Proment, Ian Renfrew, and Alberto Alberello, Journal of Fluid Mechanics (Rapids), Volume 1030, R3 (2026) - [PDF](/research/assets/papers/wave-attenuation-in-drifting-sea-ice-a-mechanistic-model-for-observed-decay-profiles.pdf)
+
+0. [Vortex to Rotons Transition in Dipolar Bose-Einstein Condensates](https://doi.org/10.1103/w9bj-bqq1), Alberto Villois, Miguel Onorato, and Davide Proment, Physical Review Letters, Volume 134, Issue 25, 253401 (2025) - [PDF](/research/assets/papers/w9bj-bqq1.pdf)
+
+0. [Stokes drift and impurity transport in a quantum fluid](https://doi.org/10.1103/PhysRevA.107.L061303), Umberto Giuriato, Giorgio Krstulovic, Miguel Onorato, and Davide Proment, Physical Review A, Volume 107, Issue 6, L061303 (2023) - [PDF](/research/assets/papers/PhysRevA.107.L061303.pdf)
 
 0. [Anomalous conduction in one-dimensional particle lattices: Wave-turbulence approach](https://doi.org/10.1103/PhysRevE.106.034110), F. De Vita, G. Dematteis, R. Mazzilli, D. Proment, Y. V. Lvov, and M. Onorato, Physical Review E, Volume 106, Issue 3, 034110 (2022) - [PDF](/research/assets/papers/PhysRevE.106.034110.pdf)
 

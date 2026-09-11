@@ -7,14 +7,17 @@ permalink: /publications/
 <!-- # Submitted manuscript(s) under consideration) -->
 
 # Submitted manuscript(s) under consideration
-1. [The effect of discrete-time evolution on thermalisation in a lattice](https://doi.org/10.48550/arXiv.2511.08355), Thomas Moorcroft, Alberto Amo, François Copie, Stéphane Randoux, Pierre Suret, Davide Proment, arXiv:2511.08355
+1. [Jones-Roberts solitary waves and the onset of rotation in a spherical surface condensate](https://doi.org/10.48550/arXiv.2605.18297), Noel Cuadra, Alberto Villois, Thomas Gasenzer, Davide Proment, arXiv:2605.18297
 
-0. [Interactions and Reconnections of Four-Dimensional Quantum Vortices](https://doi.org/10.48550/arXiv.2411.07943), H. A. J. Middleton-Spencer, B. McCanna, D. Proment, H. M. Price, arXiv:2411.07943
+0. [The effect of discrete-time evolution on thermalisation in a lattice](https://doi.org/10.48550/arXiv.2511.08355), Thomas Moorcroft, Alberto Amo, François Copie, Stéphane Randoux, Pierre Suret, Davide Proment, arXiv:2511.08355
 
 
 
 # Publications in peer-reviewed journals
-1. [Wave attenuation in drifting sea ice: a mechanistic model for observed decay profiles](https://doi.org/10.1017/jfm.2026.11262), Rhys Ransome, Davide Proment, Ian Renfrew, and Alberto Alberello, Journal of Fluid Mechanics (Rapids), Volume 1030, R3 (2026) - [PDF](/research/assets/papers/wave-attenuation-in-drifting-sea-ice-a-mechanistic-model-for-observed-decay-profiles.pdf)
+
+1. [Interactions and reconnections of four-dimensional quantum vortices](https://doi.org/10.1103/nmz7-7ym2), H. A. J. Middleton-Spencer, B. McCanna, D. Proment, H. M. Price, Physical Review Fluids 11, Issue 8, 084701 (2026) - [PDF](/research/assets/papers/nmz7-7ym2.pdf)
+
+0. [Wave attenuation in drifting sea ice: a mechanistic model for observed decay profiles](https://doi.org/10.1017/jfm.2026.11262), Rhys Ransome, Davide Proment, Ian Renfrew, and Alberto Alberello, Journal of Fluid Mechanics (Rapids), Volume 1030, R3 (2026) - [PDF](/research/assets/papers/wave-attenuation-in-drifting-sea-ice-a-mechanistic-model-for-observed-decay-profiles.pdf)
 
 0. [Vortex to Rotons Transition in Dipolar Bose-Einstein Condensates](https://doi.org/10.1103/w9bj-bqq1), Alberto Villois, Miguel Onorato, and Davide Proment, Physical Review Letters, Volume 134, Issue 25, 253401 (2025) - [PDF](/research/assets/papers/w9bj-bqq1.pdf)
 

@@ -20,7 +20,7 @@ email: d.proment[at]uea.ac.uk <br />
 
 (last update 18th September 2026)
 
-<><!--
+
 *****
 
 ***PhD opportunities***
@@ -34,6 +34,6 @@ email: d.proment[at]uea.ac.uk <br />
 -->
 
 *****
-<>-->
+
 
 
